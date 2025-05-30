@@ -1,1 +1,1 @@
-# MPPT
+This project is a Maximum Power Point Tracking (MPPT) Solar Charge Controller built using an Arduino Nano, designed for efficiently charging 24V battery systems from a solar panel source. The controller uses a Perturb & Observe (P&O) algorithm to extract the maximum possible power from the solar panel by dynamically adjusting the buck converter's duty cycle
